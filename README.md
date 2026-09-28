@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1539-kth-missing-positive-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
