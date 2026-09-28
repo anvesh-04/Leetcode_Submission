@@ -1,35 +1,24 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-       if(nums1[0]&1){
         int miniOdd = INT_MAX;
         int miniEven = INT_MAX;
-        for(int i=0; i<nums1.size(); i++){
-            if(nums1[i]&1) miniOdd = min(miniOdd, nums1[i]);
-            else miniEven = min(miniEven, nums1[i]);
-        }
-        if(miniOdd<miniEven) return true;
-       }
-       else{
-        bool possible = true;
-        int miniOdd = INT_MAX;
-        int miniEven = INT_MAX;
-        for(int i=0; i<nums1.size(); i++)
-        {
-            if(nums1[i]&1)
-            {
-                possible=false;
-                miniOdd = min(miniOdd, nums1[i]);
-            } 
-            else{
-                miniEven = min(miniEven, nums1[i]);
+        
+        // Find the minimum odd and minimum even numbers in a single pass
+        for (int x : nums1) {
+            if (x & 1) {
+                miniOdd = min(miniOdd, x);
+            } else {
+                miniEven = min(miniEven, x);
             }
         }
-        if(possible)return true;
-        else{
-            if(miniOdd<miniEven)return true;
+        
+        // If the array has ONLY odd numbers, or ONLY even numbers
+        if (miniOdd == INT_MAX || miniEven == INT_MAX) {
+            return true;
         }
-       }
-       return false;
+        
+        // If it has both, the smallest odd must be smaller than the smallest even
+        return miniOdd < miniEven;
     }
 };
