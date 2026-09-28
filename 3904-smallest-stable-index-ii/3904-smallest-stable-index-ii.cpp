@@ -1,21 +1,28 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        vector<int> maxPrefix(nums.size());
-        int maxi = INT_MIN;
-        for(int i=0; i<nums.size(); i++)
-        {
-            maxi = max(maxi, nums[i]);
-            maxPrefix[i] = maxi;
-        }
+        int n = nums.size();
+        if (n == 0) return -1;
+
+        // Precompute the minimums from right to left
+        vector<int> minSuffix(n);
         int mini = INT_MAX;
-        int smallestIndex = INT_MAX;
-        for(int i=nums.size()-1; i>=0; i--)
-        {
+        for (int i = n - 1; i >= 0; i--) {
             mini = min(mini, nums[i]);
-            if(maxPrefix[i]-mini<=k && smallestIndex>i) smallestIndex=i;
+            minSuffix[i] = mini;
         }
-        if(smallestIndex==INT_MAX) return -1;
-        return smallestIndex;
+
+        // Calculate max on the fly from left to right
+        int maxi = INT_MIN;
+        for (int i = 0; i < n; i++) {
+            maxi = max(maxi, nums[i]);
+            
+            // The first time this is true, it is guaranteed to be the smallest index
+            if (maxi - minSuffix[i] <= k) {
+                return i; 
+            }
+        }
+        
+        return -1;
     }
 };
