@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0410-split-array-largest-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
