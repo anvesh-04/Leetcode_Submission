@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -126,5 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
