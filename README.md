@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3903-smallest-stable-index-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
