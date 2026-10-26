@@ -171,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
