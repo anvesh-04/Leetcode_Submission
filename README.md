@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1539-kth-missing-positive-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anvesh-04/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anvesh-04/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1070-product-sales-analysis-iii) |
 | [1729-find-followers-count](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1729-find-followers-count) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
