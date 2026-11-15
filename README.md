@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1070-product-sales-analysis-iii) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1729-find-followers-count) |
 ## Two Pointers
 |  |
