@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1070-product-sales-analysis-iii) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1667-fix-names-in-a-table](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1729-find-followers-count) |
 ## Two Pointers
 |  |
