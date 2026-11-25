@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/anvesh-04/Leetcode_Submission/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1045-customers-who-bought-all-products) |
