@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1174-immediate-food-delivery-ii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/anvesh-04/Leetcode_Submission/tree/master/1667-fix-names-in-a-table) |
