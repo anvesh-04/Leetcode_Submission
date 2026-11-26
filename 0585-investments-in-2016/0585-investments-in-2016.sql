@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+select ROUND(sum(tiv_2016),2) as tiv_2016 from
+(select pid, tiv_2015, tiv_2016, lat, lon,
+count(*) over (partition by tiv_2015) as tcount,
+count(*) over (partition by lat, lon) as latcount from Insurance) as t where latcount<=1 and tcount>1
